@@ -454,3 +454,4 @@ When you finished that tutorial, open a file in your home directory and manipula
 ---
 
 **Remember:** Stop working after 90 minutes and record where you stopped!
+My 90 Minutes ended in vim lesson 6 and I used another ten Minutes to complete the lessons
