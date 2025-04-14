@@ -269,7 +269,8 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
     <summary>Your Function</summary>
     
 ```bash
-your code
+result=$(((5+3)*4-4))
+echo " (5+3)*4-4) = $result "
 ```
 
 </details>
@@ -306,7 +307,7 @@ cat ./function
 
 **What happend?**
 <details>
-    <summary>Your Explaination</summary>
+    If you save both functions under the first declare only the last ist saved, but if you use >> for the second function both functions are saved and if you call the function through call, both functions are shown. The first one is the functin saved with > and the second is the functin saved ubder >>.
     .....
 
 </details>
@@ -349,7 +350,7 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
-    <summary>Your Answer</summary>
+    \\wsl.localhost\Ubuntu-22.04\home\jonaskurdelbaum\function
     ....
 </details>
 
@@ -373,7 +374,8 @@ cd /
 ```
 **Run `ls` again and insert the content here:**
 <details>
-    <summary>Your Answer</summary>
+    bin   dev  home  lib    lib64   lost+found  mnt  proc  run   snap  sys  usr
+boot  etc  init  lib32  libx32  media       opt  root  sbin  srv   tmp  var
     ....
 </details>
 
@@ -390,7 +392,7 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
 <details>
     <summary>Your Terminal Output</summary>
 ```bash
-your terminal output
+\home\jonaskurdelbaum\test
 ```
 </details>
 
@@ -444,7 +446,7 @@ When you finished that tutorial, open a file in your home directory and manipula
 
 **How do you save a buffer to a new filename from within `vim`?**
 <details>
-    <summary>Your Answer</summary>
+    :w FILENAME writes the current VIM file to disk with name FILENAME
     .....
 </details>
  
