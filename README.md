@@ -93,8 +93,8 @@ plus_func
 ```
 and pressing `enter`.
 
-![Invoking the Plus Fun![Screenshot 2025-04-14 151214](https://github.com/user-attachments/assets/eb3c7214-2ea3-4a5e-b99b-58cff7c41da3)
-ction](./assets/plus_func.png)
+![Screenshot 2025-04-14 151214](https://github.com/user-attachments/assets/eb3c7214-2ea3-4a5e-b99b-58cff7c41da3)
+(./assets/plus_func.png)
 
 <details>
     <summary>Calling a Function</summary>
