@@ -71,7 +71,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 **What happens and why?**
 
 <details>
-    <summary>You Answer</summary>
+    If we don´t use the $-sign, we get the only the variable name back (return_value), if we use the $-sign we get a blanc space.
     ......
 </details>
 
@@ -93,7 +93,8 @@ plus_func
 ```
 and pressing `enter`.
 
-![Invoking the Plus Function](./assets/plus_func.png)
+![Invoking the Plus Fun![Screenshot 2025-04-14 151214](https://github.com/user-attachments/assets/eb3c7214-2ea3-4a5e-b99b-58cff7c41da3)
+ction](./assets/plus_func.png)
 
 <details>
     <summary>Calling a Function</summary>
