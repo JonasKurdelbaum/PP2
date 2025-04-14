@@ -120,6 +120,8 @@ plus_func 5 8
 ```
 We now call `var1` and `var2` _variable identifiers_, because they can vary from function call to function call!
 
+![Screenshot 2025-04-14 152613](https://github.com/user-attachments/assets/0f6bdc28-0938-4dcf-8a39-bd6958d35de2)
+
 ---
 
 ### Task 5: BASH Primitives
