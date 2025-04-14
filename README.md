@@ -93,12 +93,15 @@ plus_func
 ```
 and pressing `enter`.
 
-![Screenshot 2025-04-14 151214](https://github.com/user-attachments/assets/eb3c7214-2ea3-4a5e-b99b-58cff7c41da3)
-(./assets/plus_func.png)
+![Invoking the Plus Function](./assets/plus_func.png)
 
 <details>
     <summary>Calling a Function</summary>
     Include a screenshot of your function-call!
+    
+    ![Screenshot 2025-04-14 151214](https://github.com/user-attachments/assets/eb3c7214-2ea3-4a5e-b99b-58cff7c41da3)
+(./assets/plus_func.png)
+
 </details>
 
 ### Task 4: Handling Parameters
